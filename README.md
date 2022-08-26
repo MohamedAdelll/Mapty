@@ -77,7 +77,7 @@ workouts logging page for Cycling and Running using map from [Leaflet library](h
 
 ### Architecture
 
-<img src='./img/Mapty-architecture.png' alt='architecture' >
+<img src='./img/Mapty-architecture-final.png' alt='architecture' >
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
